@@ -3,7 +3,7 @@
 
 
 
-if [ "$0" == "" ]; then
+if [ "$1" == "" ]; then
 
 	echo "You need to add a message for the commit to GitHub"
 	echo ">publish 'New blog post about MarkDown'"
