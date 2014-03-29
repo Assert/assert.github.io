@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_page
 title:  "Welcome to the Assert blog"
 date:   2014-03-29 19:41:15
 categories: jekyll update

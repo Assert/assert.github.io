@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_page
 title:  “Adding a Jekyll Theme”
 date:   2014-03-29 20:30:32
 categories: jekyll update
