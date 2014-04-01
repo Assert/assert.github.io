@@ -47,7 +47,6 @@ title: Mainpage
             <a href="/">1</a>
             {% endif %}
           </li>
-
           {% for count in (2..paginator.total_pages) %}
           <li class="page">
             {% if count == paginator.page %}
@@ -58,7 +57,6 @@ title: Mainpage
           </li>
           {% endfor %}
         </ul>
-
         {% if paginator.next_page %}
         <p class="next">
           <a href="/page{{paginator.next_page}}">Next</a>
@@ -72,4 +70,3 @@ title: Mainpage
 
     </main>
   </div>
-
