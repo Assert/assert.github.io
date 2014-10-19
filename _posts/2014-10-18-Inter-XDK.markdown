@@ -7,6 +7,6 @@ categories: jekyll update xdk
 
 At the moment we are working on a kids puzzle game made with HTML 5 and js. Pictures will be comming soon.
 
-We see the benefits of native apps, no need to go into that now. What we really like is the convenience of HTML 5 apps, so when hard-core performance is not an issue we like to use HTML 5 to craft out apps. We have for years been using AppMobi and were sceptic when they merged with Intels XDK[xdk] but after using it for a while we are really pleaced. We aim for a release before christmas, so keep a lookout for Asserts Christmas Jig!
+We see the benefits of native apps, no need to go into that now. What we really like is the convenience of HTML 5 apps, so when hard-core performance is not an issue we like to use HTML 5 to craft out apps. We have for years been using AppMobi and were sceptic when they merged with Intels [XDK] but after using it for a while we are really pleaced. We aim for a release before christmas, so keep a lookout for Asserts Christmas Jig!
 
-[xdk]:    http://xdk-software.intel.com
+[XDK]:    http://xdk-software.intel.com
